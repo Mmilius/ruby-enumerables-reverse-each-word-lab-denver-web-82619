@@ -1,8 +1,6 @@
 def reverse_each_word(string)
-  string.split("")
-
-sentence1.reverse
-sentence2.reverse
+ stentence1.reverse = string.split("")
+sentence2.reverse = string.split ("")
 
 .collect
 end
